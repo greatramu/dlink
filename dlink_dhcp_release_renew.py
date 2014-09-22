@@ -1,5 +1,6 @@
 import requests, json, hmac
 
+# replace the values of below variables with your router's user and password
 user = 'Admin'
 password = 'xyz'
 
