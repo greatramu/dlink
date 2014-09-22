@@ -1,7 +1,7 @@
 dlink
 =====
 
-python scripts to control dlink router. Tested on Dlink GO-RT-AC750
+Python scripts to control dlink router. Tested on Dlink GO-RT-AC750
 
 <h5>Dependencies</h5>
 <ul>
