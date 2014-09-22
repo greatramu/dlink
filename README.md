@@ -4,6 +4,7 @@ dlink
 Python scripts to control dlink router. Tested on Dlink GO-RT-AC750
 
 <h5>Dependencies</h5>
+These python packages are required to run this script
 <ul>
 <li>requests</li>
 <li>json</li>
